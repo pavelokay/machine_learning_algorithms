@@ -1,0 +1,13 @@
+C:\Users\Pavel\source\repos\NeuralNetwork1\NeuralNetwork1\bin\Debug\netcoreapp3.1\NeuralNetwork1.exe
+C:\Users\Pavel\source\repos\NeuralNetwork1\NeuralNetwork1\bin\Debug\netcoreapp3.1\NeuralNetwork1.deps.json
+C:\Users\Pavel\source\repos\NeuralNetwork1\NeuralNetwork1\bin\Debug\netcoreapp3.1\NeuralNetwork1.runtimeconfig.json
+C:\Users\Pavel\source\repos\NeuralNetwork1\NeuralNetwork1\bin\Debug\netcoreapp3.1\NeuralNetwork1.runtimeconfig.dev.json
+C:\Users\Pavel\source\repos\NeuralNetwork1\NeuralNetwork1\bin\Debug\netcoreapp3.1\NeuralNetwork1.dll
+C:\Users\Pavel\source\repos\NeuralNetwork1\NeuralNetwork1\bin\Debug\netcoreapp3.1\NeuralNetwork1.pdb
+C:\Users\Pavel\source\repos\NeuralNetwork1\NeuralNetwork1\obj\Debug\netcoreapp3.1\NeuralNetwork1.csprojAssemblyReference.cache
+C:\Users\Pavel\source\repos\NeuralNetwork1\NeuralNetwork1\obj\Debug\netcoreapp3.1\NeuralNetwork1.AssemblyInfoInputs.cache
+C:\Users\Pavel\source\repos\NeuralNetwork1\NeuralNetwork1\obj\Debug\netcoreapp3.1\NeuralNetwork1.AssemblyInfo.cs
+C:\Users\Pavel\source\repos\NeuralNetwork1\NeuralNetwork1\obj\Debug\netcoreapp3.1\NeuralNetwork1.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\source\repos\NeuralNetwork1\NeuralNetwork1\obj\Debug\netcoreapp3.1\NeuralNetwork1.dll
+C:\Users\Pavel\source\repos\NeuralNetwork1\NeuralNetwork1\obj\Debug\netcoreapp3.1\NeuralNetwork1.pdb
+C:\Users\Pavel\source\repos\NeuralNetwork1\NeuralNetwork1\obj\Debug\netcoreapp3.1\NeuralNetwork1.genruntimeconfig.cache

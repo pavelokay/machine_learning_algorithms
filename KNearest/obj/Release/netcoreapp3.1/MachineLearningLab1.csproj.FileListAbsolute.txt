@@ -1,0 +1,13 @@
+C:\Users\Pavel\source\repos\MachineLearningLab1\MachineLearningLab1\bin\Release\netcoreapp3.1\MachineLearningLab1.exe
+C:\Users\Pavel\source\repos\MachineLearningLab1\MachineLearningLab1\bin\Release\netcoreapp3.1\MachineLearningLab1.deps.json
+C:\Users\Pavel\source\repos\MachineLearningLab1\MachineLearningLab1\bin\Release\netcoreapp3.1\MachineLearningLab1.runtimeconfig.json
+C:\Users\Pavel\source\repos\MachineLearningLab1\MachineLearningLab1\bin\Release\netcoreapp3.1\MachineLearningLab1.runtimeconfig.dev.json
+C:\Users\Pavel\source\repos\MachineLearningLab1\MachineLearningLab1\bin\Release\netcoreapp3.1\MachineLearningLab1.dll
+C:\Users\Pavel\source\repos\MachineLearningLab1\MachineLearningLab1\bin\Release\netcoreapp3.1\MachineLearningLab1.pdb
+C:\Users\Pavel\source\repos\MachineLearningLab1\MachineLearningLab1\obj\Release\netcoreapp3.1\MachineLearningLab1.csprojAssemblyReference.cache
+C:\Users\Pavel\source\repos\MachineLearningLab1\MachineLearningLab1\obj\Release\netcoreapp3.1\MachineLearningLab1.AssemblyInfoInputs.cache
+C:\Users\Pavel\source\repos\MachineLearningLab1\MachineLearningLab1\obj\Release\netcoreapp3.1\MachineLearningLab1.AssemblyInfo.cs
+C:\Users\Pavel\source\repos\MachineLearningLab1\MachineLearningLab1\obj\Release\netcoreapp3.1\MachineLearningLab1.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\source\repos\MachineLearningLab1\MachineLearningLab1\obj\Release\netcoreapp3.1\MachineLearningLab1.dll
+C:\Users\Pavel\source\repos\MachineLearningLab1\MachineLearningLab1\obj\Release\netcoreapp3.1\MachineLearningLab1.pdb
+C:\Users\Pavel\source\repos\MachineLearningLab1\MachineLearningLab1\obj\Release\netcoreapp3.1\MachineLearningLab1.genruntimeconfig.cache

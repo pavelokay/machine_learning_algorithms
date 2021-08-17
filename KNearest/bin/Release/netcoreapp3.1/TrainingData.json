@@ -1,0 +1,103 @@
+[
+  {
+      "Parameters" : ["0", "1", "2"],
+      "Classification": "red"
+  },
+  {
+      "Parameters" : ["1", "5", "0"],
+      "Classification": "red"
+  },
+  {
+      "Parameters" : ["10", "6", "3"],
+      "Classification": "red"
+  },
+  {
+      "Parameters" : ["20", "4", "7"],
+      "Classification": "red"
+  },
+  {
+      "Parameters" : ["5", "12", "-2"],
+      "Classification": "red"
+  },
+  {
+      "Parameters" : ["-3", "-1", "3"],
+      "Classification": "red"
+  },
+  {
+      "Parameters" : ["14", "14", "1"],
+      "Classification": "red"
+  },
+  {
+      "Parameters" : ["5", "17", "-3"],
+      "Classification": "red"
+  },
+  {
+      "Parameters" : ["-20", "-17", "5"],
+      "Classification": "red"
+  },
+  {
+      "Parameters" : ["25", "5", "0"],
+      "Classification": "blue"
+  },
+  {
+      "Parameters" : ["14", "8", "2"],
+      "Classification": "blue"
+  },
+  {
+      "Parameters" : ["19", "1", "6"],
+      "Classification": "blue"
+  },
+  {
+      "Parameters" : ["32", "2", "1"],
+      "Classification": "blue"
+  },
+  {
+      "Parameters" : ["17", "7", "9"],
+      "Classification": "blue"
+  },
+  {
+      "Parameters" : ["1", "12", "0"],
+      "Classification": "blue"
+  },
+  {
+      "Parameters" : ["10", "12", "12"],
+      "Classification": "blue"
+  },
+  {
+      "Parameters" : ["30", "7", "-5"],
+      "Classification": "blue"
+  },
+  {
+      "Parameters" : ["-50", "-20", "2"],
+      "Classification": "green"
+  },
+  {
+      "Parameters" : ["-8", "-4", "1"],
+      "Classification": "green"
+  },
+  {
+      "Parameters" : ["-42", "0", "12"],
+      "Classification": "green"
+  },
+  {
+      "Parameters" : ["-63", "-23", "-10"],
+      "Classification": "green"
+  },
+  {
+      "Parameters" : ["-52", "-21", "8"],
+      "Classification": "green"
+  },
+  {
+      "Parameters" : ["2", "3", "1"],
+      "Classification": "green"
+  },
+  {
+      "Parameters" : ["-48", "-17", "1"],
+      "Classification": "green"
+  },
+  {
+      "Parameters" : ["-15", "-33", "-6"],
+      "Classification": "green"
+  }
+]
+

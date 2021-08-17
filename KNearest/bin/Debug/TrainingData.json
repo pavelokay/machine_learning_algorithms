@@ -1,0 +1,103 @@
+[
+  {
+      "Parameters" : [0, 1, 2],
+      "Classification": 0
+  },
+  {
+      "Parameters" : [1, 5, 0],
+      "Classification": 0
+  },
+  {
+      "Parameters" : [10, 6, 3],
+      "Classification": 0
+  },
+  {
+      "Parameters" : [20, 4, 7],
+      "Classification": 0
+  },
+  {
+      "Parameters" : [5, 12, -2],
+      "Classification": 0
+  },
+  {
+      "Parameters" : [-3, -1, 3],
+      "Classification": 0
+  },
+  {
+      "Parameters" : [14, 14, 1],
+      "Classification": 0
+  },
+  {
+      "Parameters" : [5, 17, -3],
+      "Classification": 0
+  },
+  {
+      "Parameters" : [-20, -17, 5],
+      "Classification": 0
+  },
+  {
+      "Parameters" : [25, 5, 0],
+      "Classification": 1
+  },
+  {
+      "Parameters" : [14, 8, 2],
+      "Classification": 1
+  },
+  {
+      "Parameters" : [19, 1, 6],
+      "Classification": 1
+  },
+  {
+      "Parameters" : [32, 2, 1],
+      "Classification": 1
+  },
+  {
+      "Parameters" : [17, 7, 9],
+      "Classification": 1
+  },
+  {
+      "Parameters" : [1, 12, 0],
+      "Classification": 1
+  },
+  {
+      "Parameters" : [10, 12, 12],
+      "Classification": 1
+  },
+  {
+      "Parameters" : [30, 7, -5],
+      "Classification": 1
+  },
+  {
+      "Parameters" : [-50, -20, 2],
+      "Classification": 2
+  },
+  {
+      "Parameters" : [-8, -4, 1],
+      "Classification": 2
+  },
+  {
+      "Parameters" : [-42, 0, 12],
+      "Classification": 2
+  },
+  {
+      "Parameters" : [-63, -23, -10],
+      "Classification": 2
+  },
+  {
+      "Parameters" : [-52, -21, 8],
+      "Classification": 2
+  },
+  {
+      "Parameters" : [2, 3, 1],
+      "Classification": 2
+  },
+  {
+      "Parameters" : [-48, -17, 1],
+      "Classification": 2
+  },
+  {
+      "Parameters" : [-15, -33, -6],
+      "Classification": 2
+  }
+]
+
